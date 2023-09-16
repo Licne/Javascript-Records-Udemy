@@ -1,6 +1,6 @@
 ## Javascript 学习笔记
 
->**课程 : the complete javascript course **
+>**课程 : the complete javascript course**
 >
 >**讲师 : Jonas Schmedtmann**
 
